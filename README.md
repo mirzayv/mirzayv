@@ -12,4 +12,4 @@ Full-stack developer based in Seoul. I build TypeScript web apps end to end, fro
 **Blockchain:** Solidity, ethers.js · **DevOps:** Docker, Nginx, Google Cloud, Linux
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/komron-mirzaev-03b351245) · mirzayv919@gmail.com
+[LinkedIn](https://www.linkedin.com/in/komron-mirzaev) · mirzayv919@gmail.com
