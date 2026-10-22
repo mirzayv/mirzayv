@@ -1,5 +1,15 @@
-## Hi there 👋
+# Hi, I'm Komron 👋
 
-![](https://github-readme-stats.vercel.app/api?username=mirzayv&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mirzayv&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzayv&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Full-stack developer based in Seoul. I build TypeScript web apps end to end, from GraphQL and REST APIs to React and Next.js interfaces, and deploy them with Docker and Nginx.
+
+### Projects
+- **[ChainDepo](https://chaindepo.app)**: shipment tracking where every status change is hash-chained and anchored on Ethereum Sepolia. NestJS · GraphQL · Next.js · Solidity · Docker
+- **Cosmetics Store** ([frontend](https://github.com/mirzayv/cosmetics-store-frontend) · [backend](https://github.com/mirzayv/cosmetics-store-backend)): online store with a React storefront, an Express REST API and an EJS admin panel
+
+### Tech
+**Frontend:** TypeScript, React, Next.js, Redux Toolkit, Apollo Client, Tailwind CSS, MUI  
+**Backend:** Node.js, NestJS, Express, GraphQL, REST, WebSocket, MongoDB  
+**Blockchain:** Solidity, ethers.js · **DevOps:** Docker, Nginx, Google Cloud, Linux
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/komron-mirzaev-03b351245) · mirzayv919@gmail.com
