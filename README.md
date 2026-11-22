@@ -81,7 +81,6 @@ Online store with a React storefront, an Express REST API and an EJS admin panel
 - Shinhan Bank Global CSR Scholarship (2025)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirzayv&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzayv&layout=compact&hide_border=true&theme=tokyonight&exclude_repo=Library-Management-System" height="165" />
 </p>
 
