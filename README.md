@@ -15,7 +15,7 @@ Full-stack developer based in **Tashkent, Uzbekistan** (open to remote, and to r
 ### Tech
 **Frontend:** TypeScript, React, Next.js, Redux Toolkit, Apollo Client, Tailwind CSS, MUI  
 **Backend:** Node.js, NestJS, Express, GraphQL, REST, WebSocket, MongoDB  
-**AI:** Python, LLM APIs (Gemini, OpenAI, Anthropic), RAG, MCP, PyTorch, OpenCV  
+**AI:** Python, LLM APIs (Google Gemini), RAG, Qdrant, MCP, Hugging Face, PyTorch, OpenCV  
 **Blockchain:** Solidity, ethers.js · **DevOps:** Docker, Nginx, Google Cloud, Linux
 
 ### Languages
