@@ -6,7 +6,7 @@ Full-stack developer based in **Tashkent, Uzbekistan** (open to remote, and to r
 - **[ChainDepo](https://chaindepo.app)**: shipment tracking where every status change is hash-chained and anchored on Ethereum Sepolia. Real-time chat over WebSocket and an AI assistant (Google Gemini) with retries and automatic fallback. NestJS · GraphQL · MongoDB · Next.js · Solidity · Docker · Google Cloud
 - **[ARMED Inc. website](https://armed-eight.vercel.app)** ([code](https://github.com/mirzayv/armed)): company website for a Korean medical-device company, built and maintained as a freelancer since 2024. Astro · Tailwind CSS · Vercel
 - **Cosmetics Store** ([frontend](https://github.com/mirzayv/cosmetics-store-frontend) · [backend](https://github.com/mirzayv/cosmetics-store-backend)): online store with a React storefront, an Express REST API and an EJS admin panel
-- **[Computer vision notebooks](https://github.com/mirzayv/computer_vision)**: OpenCV, PyTorch and an object-detection model, from my work in the Sejong University computer vision lab
+- **[Computer vision notebooks](https://github.com/mirzayv/computer_vision)**: OpenCV, PyTorch and a MobileNetV2 transfer-learning food classifier, with my own scraped dataset
 
 ### AI
 - **Agentic Fullstack & AI Engineering** — 6-month program, Devex Academy (2026): LLM APIs, RAG, vector search (Qdrant), MCP, AI agents
