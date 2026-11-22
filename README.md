@@ -3,7 +3,7 @@
 Full-stack developer based in **Tashkent, Uzbekistan** (open to remote, and to relocating to Seoul). Computer Science graduate of Sejong University, Seoul (GPA 3.91/4.5). I build TypeScript web apps end to end, from GraphQL and REST APIs to React and Next.js interfaces, deploy them with Docker and Nginx, and add AI features on top.
 
 ### Projects
-- **[ChainDepo](https://chaindepo.app)**: shipment tracking where every status change is hash-chained and anchored on Ethereum Sepolia. Real-time chat over WebSocket and an AI assistant (Google Gemini) with retries and automatic fallback. NestJS · GraphQL · MongoDB · Next.js · Solidity · Docker · Google Cloud
+- **[ChainDepo](https://chaindepo.app)** ([backend](https://github.com/mirzayv/chaindepo) · [frontend](https://github.com/mirzayv/chaindepo-next)): shipment tracking where every status change is hash-chained and anchored on Ethereum Sepolia. Real-time chat over WebSocket and an AI assistant (Google Gemini) with retries and automatic fallback. NestJS · GraphQL · MongoDB · Next.js · Solidity · Docker · Google Cloud
 - **[ARMED Inc. website](https://armed-eight.vercel.app)** ([code](https://github.com/mirzayv/armed)): company website for a Korean medical-device company, built and maintained as a freelancer since 2024. Astro · Tailwind CSS · Vercel
 - **Cosmetics Store** ([frontend](https://github.com/mirzayv/cosmetics-store-frontend) · [backend](https://github.com/mirzayv/cosmetics-store-backend)): online store with a React storefront, an Express REST API and an EJS admin panel
 - **[Computer vision notebooks](https://github.com/mirzayv/computer_vision)**: OpenCV, PyTorch and a MobileNetV2 transfer-learning food classifier, with my own scraped dataset
