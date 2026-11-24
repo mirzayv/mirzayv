@@ -20,6 +20,9 @@
 ### 🔗 [ChainDepo](https://chaindepo.app) — verifiable shipment tracking
 [backend](https://github.com/mirzayv/chaindepo) · [frontend](https://github.com/mirzayv/chaindepo-next)
 
+<img src="https://github.com/mirzayv/chaindepo-next/raw/modification/docs/demo.gif" alt="ChainDepo demo: enter a tracking code, see the route, every hash-chained event and the on-chain verification" width="100%" />
+
+
 Freight tracking across Korea where every event is **SHA-256 hash-chained** and **anchored on Ethereum Sepolia**, so anyone can verify the history. Real-time chat over WebSocket, an **AI assistant on Google Gemini** with retries and automatic fallback, route map, 3D hash-chain scene and 3 languages. Deployed with Docker, Nginx and Let's Encrypt on Google Cloud.
 
 `NestJS` `GraphQL` `MongoDB` `ethers.js` `Gemini API` `Next.js` `Apollo` `Leaflet` `three.js` `Docker` `GCP`
